@@ -1,6 +1,6 @@
 nav:
   - title: "Skills"
-    section: services
+    section: skills
 
   - title: "Portfolio"
     section: portfolio
@@ -9,7 +9,7 @@ nav:
     section: timeline
 
   - title: "Contact"
-    section: team
+    section: contact
     
   - title: "Blog"
     url: https://stonybean.github.io/
