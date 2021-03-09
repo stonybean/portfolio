@@ -1,5 +1,5 @@
 nav:
-  - title: "Services"
+  - title: "Skills"
     section: services
 
   - title: "Portfolio"
@@ -8,7 +8,7 @@ nav:
   - title: "About"
     section: timeline
 
-  - title: "Team"
+  - title: "Contact"
     section: team
     
   - title: "Blog"
