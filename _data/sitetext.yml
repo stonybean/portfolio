@@ -68,6 +68,10 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
+      - name: ""
+        role: ""
+        image: 
+        social:
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -78,7 +82,11 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+      - name: ""
+        role: ""
+        image: 
+        social:
+ 
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
