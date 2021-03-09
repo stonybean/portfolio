@@ -7,7 +7,7 @@ header:
 skills:
     title: "Skills"
     text: ""
-    section: services
+    section: skills
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -25,7 +25,6 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
-
 timeline:
     title: "About" 
     text: "Lorem ipsum timeline"
@@ -61,7 +60,7 @@ contact:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: contact
     people:
       - name: ""
         role: ""
