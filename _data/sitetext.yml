@@ -70,8 +70,7 @@ team:
     people:
       - name: ""
         role: ""
-        image: 
-        social:
+        image: ""
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -84,8 +83,7 @@ team:
             icon: fab fa-linkedin-in
       - name: ""
         role: ""
-        image: 
-        social:
+        image: ""
  
 contact:
     title: "Contact Us"
