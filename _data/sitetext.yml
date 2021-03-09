@@ -5,8 +5,8 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
