@@ -13,11 +13,11 @@ skills:
     section: skills
     list1:
     - title: "Kotlin"
-        desc: "familiar"
-        icon: https://img.stackshare.io/service/3750/pCfEzr6L.png
+        desc: ""
+        icon: ""
     - title: "Java"
-        desc: "familiar"
-        icon: fab fa-java       
+        desc: ""
+        icon: ""
     - title: "Swift"
         desc: ""
         icon: ""
