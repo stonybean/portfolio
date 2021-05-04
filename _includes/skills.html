@@ -15,7 +15,7 @@
       <div class="row text-center">
 	     {% for skill in site.data.sitetext.skills.list1 %}
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid" src="{{ skill.icon }}">
+          <img class="fas fa-circle" src="{{ skill.icon }}">
           <h4 class="skill-heading">{{ skill.title | markdownify }}</h4>
           {% if skill.desc %}<div class="text-muted">{{ skill.desc | markdownify }}</div>{% endif %}
         </div>
