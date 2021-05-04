@@ -14,7 +14,7 @@ skills:
     list1:
       - title: "Kotlin"
         desc: ""
-        icon: ""
+        icon: assets/img/timeline/2.jpg
       - title: "Java"
         desc: ""
         icon: ""
