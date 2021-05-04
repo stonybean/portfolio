@@ -1,16 +1,13 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to my portfolio!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#skills"
 
 skills:
     title: "Skills"
-    text1: "Application and Data"
-    text2: "Utilities"
-    text3: "DevOps"
-    text4: "Business Tools"
     section: skills
+    text1: "Application and Data"
     list1:
       - title: "Kotlin"
         desc: ""
@@ -42,6 +39,7 @@ skills:
       - title: "Android Room"
         desc: ""
         icon: https://img.stackshare.io/service/9379/default_1260099b6d4bb9f2e689ef62460fa4655cc59c10.png
+    text2: "Utilities"
     list2:
       - title: "Github Pages"
         desc: ""
@@ -57,7 +55,8 @@ skills:
         icon: https://img.stackshare.io/service/10365/j5RptoTm_400x400.jpg
       - title: "OkHttp"
         desc: ""
-        icon: https://img.stackshare.io/no-img-open-source.png        
+        icon: https://img.stackshare.io/no-img-open-source.png
+    text3: "DevOps"            
     list3:
       - title: "GitHub"
         desc: ""
@@ -74,10 +73,17 @@ skills:
       - title: "SVN (Subversion)"
         desc: ""
         icon: https://img.stackshare.io/service/1045/svn.jpg        
+      - title: "VMWare vSphere"
+        desc: ""
+        icon: https://img.stackshare.io/service/775/DfXQ4S9P_400x400.jpg
+    text4: "Business Tools"
     list4:
       - title: "notion.so"
         desc: ""
         icon: https://img.stackshare.io/service/6758/cbCR7w5R_400x400.jpg
+      - title: "notion.so"
+        desc: ""
+        icon: https://img.stackshare.io/service/1186/redmine-logo-twitter_400x400.png
 
 portfolio:
     title: "Portfolio"
@@ -86,7 +92,7 @@ portfolio:
     closebutton: "Close Project"
     
 timeline:
-    title: "About" 
+    title: "Timeline" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
