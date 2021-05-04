@@ -11,7 +11,8 @@ skills:
     list:
       - title: "Kotlin"
         desc: "familiar"
-        icon: fab fa-android #find more at https://fontawesome.com/icons
+        text: "hihi"
+        icon: https://img.stackshare.io/service/3750/pCfEzr6L.png
       - title: "Android Java"
         desc: "familiar"
         icon: fab fa-java       
