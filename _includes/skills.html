@@ -15,10 +15,7 @@
       <div class="row text-center">
 	     {% for skill in site.data.sitetext.skills.list1 %}
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ skill.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-          </span>
+          <img class="rounded-circle img-fluid" src="{{ skill.icon }}">
           <h4 class="skill-heading">{{ skill.title | markdownify }}</h4>
           {% if skill.desc %}<div class="text-muted">{{ skill.desc | markdownify }}</div>{% endif %}
         </div>
