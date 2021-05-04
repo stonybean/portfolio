@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/01-nh_192.png
 ---
 
-🔍 <b>Android Java</b><br>
+🔍 <b>Dev Language : Android Java</b><br>
 🔍 <b>고객사 커스터마이징 요구사항 처리</b><br>
 🔍 <b>직원 조직도 검색 신규 기능 추가</b><br>
 <br>
@@ -22,7 +22,7 @@ caption:
 <br>
 
 {:.list-inline}
-⏳ Date: 2016. 12 - 2017. 02
-✔️ Client: NH투자증권
-📌 Category: Android
+⏳ Date: 2016. 12 - 2017. 02<br>
+✔️ Client: NH투자증권<br>
+📌 Category: Android<br>
 
