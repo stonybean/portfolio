@@ -81,13 +81,13 @@ skills:
       - title: "notion.so"
         desc: ""
         icon: https://img.stackshare.io/service/6758/cbCR7w5R_400x400.jpg
-      - title: "notion.so"
+      - title: "Redmine"
         desc: ""
         icon: https://img.stackshare.io/service/1186/redmine-logo-twitter_400x400.png
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
     
