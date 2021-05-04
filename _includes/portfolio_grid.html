@@ -18,13 +18,13 @@ img {
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="width:400px; height:300px;">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" style="height:300px;">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <img class="center img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
