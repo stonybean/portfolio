@@ -6,10 +6,10 @@ header:
 
 skills:
     title: "Skills"
-    text1: "Application and Data"
-    text2: "Utilities"
-    text3: "DevOps"
-    text4: "Business Tools"
+    text1: "<Application and Data>"
+    text2: "<Utilities>"
+    text3: "<DevOps>"
+    text4: "<Business Tools>"
     section: skills
     list1:
       - title: "Kotlin"
