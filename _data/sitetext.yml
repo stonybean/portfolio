@@ -14,64 +14,70 @@ skills:
     list1:
       - title: "Kotlin"
         desc: ""
-        icon: assets/img/timeline/2.jpg
+        icon: https://img.stackshare.io/service/3750/pCfEzr6L.png
       - title: "Java"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/995/K85ZWV2F.png
       - title: "Swift"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/1009/tuHsaI2U.png
+      - title: "Firebase"
+        desc: ""
+        icon: https://img.stackshare.io/service/116/cZLxNFZS.jpg 
       - title: "Socket.IO"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
       - title: "Flutter"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
       - title: "Dart"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/1646/Twitter-02.png
+      - title: "Android SDK"
+        desc: ""
+        icon: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
       - title: "Android OS"
         desc: ""
-        icon: ""    
+        icon: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg    
       - title: "Android Room"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/9379/default_1260099b6d4bb9f2e689ef62460fa4655cc59c10.png
     list2:
       - title: "Github Pages"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/683/default_5eeb660db1239eeb3f1c1f6187f2abf0f3a0500d.png
       - title: "Firebase Cloud Messaging"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/7670/m3cEA33V_400x400.jpg
       - title: "Retrofit"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/2856/retrofit-logo.png
       - title: "Glide"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/10365/j5RptoTm_400x400.jpg
       - title: "OkHttp"
         desc: ""
-        icon: ""        
+        icon: https://img.stackshare.io/no-img-open-source.png        
     list3:
       - title: "GitHub"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/27/sBsvBbjY.png
       - title: "Android Studio"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/1447/AyreX9yf.jpeg
       - title: "Xcode"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/1448/xcode.png
       - title: "Gradle"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
       - title: "SVN (Subversion)"
         desc: ""
-        icon: ""        
+        icon: https://img.stackshare.io/service/1045/svn.jpg        
     list4:
       - title: "notion.so"
         desc: ""
-        icon: ""
+        icon: https://img.stackshare.io/service/6758/cbCR7w5R_400x400.jpg
 
 portfolio:
     title: "Portfolio"
