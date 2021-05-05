@@ -99,9 +99,9 @@ timeline:
     #start_align: "left"
     events:
       - title: "Uclick"
-        year: "2016-"
+        year: "2016 ~ "
         desc: "재직중"
-        image: assets/img/timeline/3.png
+        image: assets/img/timeline/3.jpg
         alt: 
         # you can enforce the aligment
         align: left
