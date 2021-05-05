@@ -1,13 +1,13 @@
 ---
 title: Android
 subtitle: NH 투자증권 직원용 메신저 구축 (B2B)
-image: assets/img/portfolio/01-nh_192.png
+image: assets/img/portfolio/nh_192.png
 alt: ""
 
 caption:
   title: Android
   subtitle: NH 투자증권 직원용 메신저 구축 (B2B)
-  thumbnail: assets/img/portfolio/01-nh_192.png
+  thumbnail: assets/img/portfolio/nh_192.png
 ---
 
 🔍 <b>Dev Language : Android Java</b><br>
