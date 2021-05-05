@@ -101,11 +101,11 @@ timeline:
       - title: "Uclick"
         year: "2016-"
         desc: "재직중"
-        image: assets/img/timeline/logo.png
+        image: assets/img/timeline/3.png
         alt: 
         # you can enforce the aligment
-        align: right
-    end: "New <br> Start!"
+        align: left
+    end: "New<br><br>Start!"
     
 contact:
     title: "Contact Me"
