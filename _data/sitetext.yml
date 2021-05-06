@@ -99,7 +99,7 @@ timeline:
     #start_align: "left"
     events:
       - title: "Uclick"
-        year: "2016. 12 ~ "
+        year: "2016.12 - "
         desc: "재직중"
         image: assets/img/timeline/3.jpg
         alt: 
