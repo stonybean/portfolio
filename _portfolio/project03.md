@@ -14,7 +14,7 @@ caption:
 🔍 <b>고객사 커스터마이징 요구 처리</b><br><br>
 🔍 <b>TCP/IP Socket 통신</b><br><br>
 ➡️ 실시간 채팅, 직원 조직도 표출, 쪽지 전송 등<br><br>
-🔍 <b>RESTful API 로그인 처리 (Retrofit2 + Okhttp 적용)</b><br>
+🔍 <b>RESTful API 로그인 처리 (Retrofit2 + Okhttp 적용)</b><br><br>
 
 {:.list-inline}
 ⏳ Date: 2017. 08 - 2018. 01<br>
