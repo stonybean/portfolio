@@ -15,7 +15,7 @@ caption:
 🔍 <b>XD 활용 전체 디자인 변경</b><br><br>
 🔍 <b>전반적인 구조 및 성능 개선 (불필요한 코드, 리소스 제거 및 모듈화)</b><br><br>
 🔍 <b>모듈 테스트 추가</b><br><br>
-🔗 <b>Google Play - <a href="https://play.google.com/store/apps/details?id=kr.co.usafe.listen2me.basic"></a></b><br><br>
+🔗 <b><a href="https://play.google.com/store/apps/details?id=kr.co.usafe.listen2me.basic">Google Play</a></b><br><br>
 
 {:.list-inline}
 ⏳ Date: 2020. 12 - 2021. 05<br>
