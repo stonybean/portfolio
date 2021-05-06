@@ -10,12 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/time_512.png
 ---
 
-🔍 <b>Dev Language : Android Java</b><br>
-🔍 <b>강사, 학부모, 학생 등이 이용하는 SNS 앱</b><br>
-🔍 <b>친구 목록, 토픽, 채팅방 등 전반적 개발 참여</b><br>
+🔍 <b>Dev Language : Android Java</b><br><br>
+🔍 <b>강사, 학부모, 학생 등이 이용하는 SNS 앱</b><br><br>
+🔍 <b>친구 목록, 토픽, 채팅방 등 전반적 개발 참여</b><br><br>
 🔍 <b>TCP/IP Socket 통신</b><br>
-➡️ 실시간 채팅, SNS 기능(모임 기능, 페이스북 게시글 형식)<br>
-<br>
+➡️ 실시간 채팅, SNS 기능(모임 기능, 페이스북 게시글 형식)<br><br>
 
 {:.list-inline}
 ⏳ Date: 2018. 04 - 2018. 10<br>
