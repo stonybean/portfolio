@@ -1,13 +1,13 @@
 ---
 title: Android
 subtitle: 리슨투미 앱 개발 (B2B)
-image: assets/img/portfolio/l2me_192.png
+image: assets/img/portfolio/l2me_1024.png
 alt: ""
 
 caption:
   title: Android
   subtitle: 리슨투미 앱 개발 (B2B)
-  thumbnail: assets/img/portfolio/l2me_192.png
+  thumbnail: assets/img/portfolio/l2me_1024.png
 ---
 
 🔍 <b>Dev Language : Kotlin</b><br>

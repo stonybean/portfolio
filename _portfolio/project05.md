@@ -1,13 +1,13 @@
 ---
 title: Android
 subtitle: 서초구청 모바일 주소록 구축 (B2B)
-image: assets/img/portfolio/cafe_144.png
+image: assets/img/portfolio/secho_1024.png
 alt: ""
 
 caption:
   title: Android
   subtitle: 서초구청 모바일 주소록 구축 (B2B)
-  thumbnail: assets/img/portfolio/cafe_144.png
+  thumbnail: assets/img/portfolio/secho_1024.png
 ---
 
 🔍 <b>Dev Language : Android Java</b><br>

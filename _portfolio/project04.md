@@ -1,13 +1,13 @@
 ---
 title: Android
 subtitle: 타임교육 메신저 개발 (B2C)
-image: assets/img/portfolio/01-nh_192.png
+image: assets/img/portfolio/time_512.png
 alt: ""
 
 caption:
   title: Android
   subtitle: 타임교육 메신저 개발 (B2C)
-  thumbnail: assets/img/portfolio/time_192.png
+  thumbnail: assets/img/portfolio/time_512.png
 ---
 
 🔍 <b>Dev Language : Android Java</b><br>

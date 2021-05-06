@@ -1,13 +1,13 @@
 ---
 title: iOS
 subtitle: UC Cafe 메신저(유클릭) 대화방 이모티콘 개선
-image: assets/img/portfolio/cafe_144.png
+image: assets/img/portfolio/cafe_512.png
 alt: ""
 
 caption:
   title: iOS
   subtitle: UC Cafe 메신저(유클릭) 대화방 이모티콘 개선
-  thumbnail: assets/img/portfolio/cafe_144.png
+  thumbnail: assets/img/portfolio/cafe_512.png
 ---
 
 🔍 <b>Dev Language : Swift (Swift4)</b><br>

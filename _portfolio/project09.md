@@ -1,13 +1,13 @@
 ---
 title: Server
 subtitle: 리슨투미 서버 유지 보수 (B2B)
-image: assets/img/portfolio/l2me_192.png
+image: assets/img/portfolio/l2me_1024.png
 alt: ""
 
 caption:
   title: Server
   subtitle: 리슨투미 서버 유지 보수 (B2B)
-  thumbnail: assets/img/portfolio/l2me_192.png
+  thumbnail: assets/img/portfolio/l2me_1024.png
 ---
 
 🔍 <b>Dev Language : Java</b><br>

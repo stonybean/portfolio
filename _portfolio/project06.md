@@ -1,13 +1,13 @@
 ---
 title: Android
 subtitle: UC Cafe 메신저(유클릭) 회의방 솔루션 개발
-image: assets/img/portfolio/cafe_144.png
+image: assets/img/portfolio/cafe_512.png
 alt: ""
 
 caption:
   title: Android
   subtitle: UC Cafe 메신저(유클릭) 회의방 솔루션 개발
-  thumbnail: assets/img/portfolio/cafe_144.png
+  thumbnail: assets/img/portfolio/cafe_512.png
 ---
 
 🔍 <b>Dev Language : Android Java</b><br>
